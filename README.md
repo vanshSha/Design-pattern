@@ -1,4 +1,4 @@
-Project Discription 
+Project Description 
             - In this project, I understand SOLID principle and implement also some important Design Pattern .
 
   Design Pattern :
