@@ -1,7 +1,8 @@
 Project Description 
             - In this project, I understand SOLID principle and implement also some important Design Pattern .
-            - In this project , I create Ride Sharing App
-              While doing code of the project I follow solid principle and add functionality like Add Driver , Add Vehicle , Show fare price etc.  
+
+            I developed a Ride Sharing Application by applying SOLID design principles.
+            The project includes core functionalities such as driver onboarding, vehicle management, and dynamic fare calculation. The focus was on clean architecture, scalability, and maintainable code .
             
 
   Design Pattern :
