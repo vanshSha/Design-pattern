@@ -1,0 +1,16 @@
+package com.behavioural_design_pattern.ChangeOfResponsibilityPattern;
+
+// Concrete Handler
+public class Supervisor extends Handler{
+
+    @Override
+    public void handleRequest(Request request) {
+        if(request.getPriority() <= 2){
+            System.out.println("Supervisor handling " + request.getDescription());
+        }else {
+            if(nextHandler != null){
+                nextHandler.handleRequest(request);
+            }
+        }
+    }
+}

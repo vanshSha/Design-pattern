@@ -1,5 +1,8 @@
 Project Description 
             - In this project, I understand SOLID principle and implement also some important Design Pattern .
+            - In this project , I create Ride Sharing App
+              While doing code of the project I follow solid principle and add functionality like Add Driver , Add Vehicle , Show fare price etc.  
+            
 
   Design Pattern :
 
@@ -11,6 +14,8 @@ Project Description
                     Template Method Pattern
                     Iteration Design Pattern
                     State Design Pattern
+                    Visitor Design Pattern
+                    Change of Responsibility Design Pattern
 
                    CREATIONAL DESIGN PATTERN  
                     Singleton Design Pattern 
@@ -25,4 +30,5 @@ Project Description
                      Proxy Design Pattern
                      Composition Design Pattern
                      Facade Design Pattern 
-                     FlyWeight Design Pattern     
+                     FlyWeight Design Pattern   
+                     Bridge Design Pattern  
